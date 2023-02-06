@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-f4ess5t+oj*xum@lr++2o3&i6nzpzsoaf4qyq&@-zdosnr#+b@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://pastel-test.cs.mtu.edu/django-test"]
+ALLOWED_HOSTS = ["127.0.0.1", "http://pastel-test.cs.mtu.edu/django-test"]
 
 
 # Application definition
